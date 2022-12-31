@@ -3,3 +3,4 @@ Hello,Git.I'm learning git now! 经过第二次修改提交!
 我在分支hot-fix上对hello.txt进行修改
 master
 hot-fix
+接下来，我将把此文件上传到GitHub
